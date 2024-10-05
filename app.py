@@ -1,4 +1,4 @@
-from Tkinter import *
+from tkinter import *
 import requests, json
 from datetime import datetime, date, timedelta
 import base64
